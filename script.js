@@ -1,4 +1,4 @@
-var url = 'https://codepen.io/ravinadhamani/pen/jOZOqpd'
+var url = 'https://adminpaneldata-edyoda-sourav.herokuapp.com/admin/data'
 
 var tableData = document.getElementById("table-data1")
 var infoWrapper = document.getElementById("info-wrapper")
